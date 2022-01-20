@@ -1,0 +1,5 @@
+.idea
+mongodb/*
+!mongodb/.gitignore
+node_modules
+.DS_Store
